@@ -1,0 +1,12 @@
+com\nagarro\nagp\restassured\config\Configuration.class
+com\nagarro\nagp\restassured\models\BookingDatesRequest.class
+com\nagarro\nagp\restassured\Utilties\JsonSchemaValidatorUtil.class
+com\nagarro\nagp\restassured\Utilties\RestRequestUtils.class
+com\nagarro\nagp\restassured\customlisterns\ExtentManager.class
+com\nagarro\nagp\restassured\APIs\BookingAPI.class
+com\nagarro\nagp\restassured\TestBase\TestBase.class
+com\nagarro\nagp\restassured\models\UpdateBookingRequest.class
+com\nagarro\nagp\restassured\models\CreateBookingRequest.class
+com\nagarro\nagp\restassured\Utilties\TokenManager.class
+com\nagarro\nagp\restassured\customlisterns\ExtentListeners.class
+com\nagarro\nagp\restassured\models\PartialUpdateBookingRequest.class

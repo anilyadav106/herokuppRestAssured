@@ -1,0 +1,158 @@
+10:48:11.988 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+10:48:12.444 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+10:48:12.476 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+10:48:15.578 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+10:48:16.157 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3458
+10:48:52.752 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+10:48:53.265 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+10:48:53.288 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+10:48:56.423 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+10:48:56.976 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3805
+10:49:56.853 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+10:49:57.231 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+10:49:57.260 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+10:50:00.184 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+10:50:00.717 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4349
+10:50:49.807 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+10:50:50.111 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+10:50:50.133 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+10:50:53.199 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+10:50:53.729 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4811
+10:51:04.438 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+10:51:04.739 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+10:51:04.763 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+10:51:07.483 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+10:51:08.032 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4939
+11:34:07.401 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+11:34:07.704 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+11:34:07.736 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+11:34:10.647 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+11:34:11.153 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 810
+11:39:36.380 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+11:39:36.734 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+11:39:36.782 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+11:39:40.355 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+11:39:40.810 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3641
+11:47:14.193 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+11:47:14.462 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+11:47:14.491 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+11:47:17.438 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+11:47:17.962 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 2993
+11:47:18.025 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+11:47:21.187 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+11:47:23.372 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the partialUpdateRequest 
+11:47:24.961 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the partialUpdateRequest response
+11:47:26.547 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the updateRequest 
+11:47:28.385 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the updateRequest response
+11:47:29.861 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the deleteRequest 
+11:47:31.599 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the deleteRequest response
+11:47:31.602 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+11:47:33.295 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+11:47:33.660 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+11:47:34.993 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+11:47:35.010 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3149
+12:19:17.671 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:19:17.960 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:19:17.983 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:19:21.214 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:19:21.705 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4085
+12:21:24.239 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:21:24.549 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:21:24.570 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:21:32.448 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:21:32.888 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 23
+12:21:45.568 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:21:45.854 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:21:45.879 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:21:48.717 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:21:49.217 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 189
+12:24:30.752 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:24:31.018 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:24:31.033 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:24:34.068 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:24:34.579 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1579
+12:24:57.284 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:24:57.582 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:24:57.609 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:25:00.485 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:25:00.927 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1817
+12:27:21.831 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:27:22.126 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:27:22.167 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:27:25.037 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:27:25.518 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3039
+12:27:25.578 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+12:27:27.001 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+12:27:28.638 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the partialUpdateRequest 
+12:27:30.008 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the partialUpdateRequest response
+12:27:31.652 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the updateRequest 
+12:27:32.996 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the updateRequest response
+12:27:34.703 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the deleteRequest 
+12:27:36.422 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the deleteRequest response
+12:27:36.425 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+12:27:38.268 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+12:27:38.749 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:27:40.521 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:27:40.538 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3176
+12:28:17.665 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:28:17.939 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:28:17.960 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:28:22.008 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:28:22.438 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 3523
+12:29:31.090 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:29:31.354 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:29:31.374 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:29:34.371 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:29:34.854 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4140
+12:31:38.442 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:31:38.713 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:31:38.734 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:31:41.264 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:31:41.712 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 5238
+12:32:31.519 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:32:31.783 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:32:31.806 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:32:34.658 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:32:35.154 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 17
+12:35:41.061 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+12:35:41.330 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+12:35:41.363 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:35:44.182 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:35:44.689 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1681
+12:35:44.750 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+12:35:46.208 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+12:35:48.264 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the partialUpdateRequest 
+12:35:49.891 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the partialUpdateRequest response
+12:35:52.061 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the updateRequest 
+12:35:54.712 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the updateRequest response
+12:35:56.371 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the deleteRequest 
+12:35:57.868 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the deleteRequest response
+12:35:57.882 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the getRequest 
+12:35:59.196 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the getRequest response
+12:35:59.627 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+12:36:01.154 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+12:36:01.183 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1836
+16:44:24.624 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+16:44:24.964 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+16:44:25.019 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+16:44:28.057 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+16:44:28.549 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1577
+16:44:36.375 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+16:44:36.690 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+16:44:36.711 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+16:44:39.901 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+16:44:40.414 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 1688
+16:46:05.694 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+16:46:05.983 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+16:46:06.003 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+16:46:09.304 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+16:46:09.782 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 2480
+16:49:40.214 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+16:49:40.494 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+16:49:40.514 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+16:49:43.786 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+16:50:21.034 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Going to setup the base URI 
+16:50:21.326 [main] INFO  com.nagarro.nagp.restassured.TestBase.TestBase - Done setup the base URI 
+16:50:21.347 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Going to hit the postRequest 
+16:50:25.296 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Returned the postRequest response
+16:50:25.816 [main] INFO  com.nagarro.nagp.restassured.Utilties.RestRequestUtils - Booked a new booking with ID: 4712

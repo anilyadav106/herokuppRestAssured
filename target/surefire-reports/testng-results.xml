@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T12:35:41 IST" name="Suite" finished-at="2024-06-24T12:36:01 IST" duration-ms="20212">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T12:35:41 IST" name="Test1" finished-at="2024-06-24T12:36:01 IST" duration-ms="20212">
+      <class name="com.nagarro.nagp.restassured.testpackage.AllBookingTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:41 IST" name="setup" finished-at="2024-06-24T12:35:41 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createBooking()[pri:0, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:41 IST" name="createBooking" description="To create a new booking" finished-at="2024-06-24T12:35:44 IST" duration-ms="3385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method signature="getBooking()[pri:1, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:44 IST" name="getBooking" description="To get details of a booking" finished-at="2024-06-24T12:35:46 IST" depends-on-methods="com.nagarro.nagp.restassured.testpackage.AllBookingTest.createBooking" duration-ms="1465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooking -->
+        <test-method signature="partialUpdateBooking()[pri:2, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:46 IST" name="partialUpdateBooking" description="To partially update a booking" finished-at="2024-06-24T12:35:49 IST" depends-on-methods="com.nagarro.nagp.restassured.testpackage.AllBookingTest.createBooking" duration-ms="3688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdateBooking -->
+        <test-method signature="updateBooking()[pri:3, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:49 IST" name="updateBooking" description="To fully update a booking" finished-at="2024-06-24T12:35:54 IST" depends-on-methods="com.nagarro.nagp.restassured.testpackage.AllBookingTest.createBooking" duration-ms="4814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBooking -->
+        <test-method signature="deleteBooking()[pri:4, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:54 IST" name="deleteBooking" description="To delete new booking" finished-at="2024-06-24T12:35:57 IST" depends-on-methods="com.nagarro.nagp.restassured.testpackage.AllBookingTest.createBooking" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBooking -->
+        <test-method signature="getBookings()[pri:5, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:57 IST" name="getBookings" description="To get IDs of all the bookings" finished-at="2024-06-24T12:35:59 IST" duration-ms="1737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookings -->
+        <test-method signature="createBookingResponseSchemaValidation()[pri:6, instance:com.nagarro.nagp.restassured.testpackage.AllBookingTest@4f8969b0]" started-at="2024-06-24T12:35:59 IST" name="createBookingResponseSchemaValidation" description="To create a new booking and valdiate the response schema" finished-at="2024-06-24T12:36:01 IST" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingResponseSchemaValidation -->
+      </class> <!-- com.nagarro.nagp.restassured.testpackage.AllBookingTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
